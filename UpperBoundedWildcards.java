@@ -5,10 +5,9 @@ import java.util.List;
  * show Upper Bounded Wildcards example
  */
 public class UpperBoundedWildcards {
-
 	/**	
-    *	1. Upper bounded wildcard : relax the restrictions on a variable.	
-	*   2. To declare an upper-bounded wildcard, use the wildcard character ('?'), followed by the extends keyword, followed by its upper bound.   
+    * 1. Upper bounded wildcard : relax the restrictions on a variable.	
+	* 2. To declare an upper-bounded wildcard, use the wildcard character ('?'), followed by the extends keyword, followed by its upper bound.   
 	**/
 	public static double sumOfList(List<? extends Number> list) {
     double s = 0.0;
