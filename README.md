@@ -1,6 +1,8 @@
 # java_generic
 Java Generics Samples : 
 
-1. Upper Bounded Wildcards
+1. Wildcards : 
 
-2. Unbounded Wildcards
+  1.1. Upper Bounded Wildcards
+
+  1.1. Unbounded Wildcards
