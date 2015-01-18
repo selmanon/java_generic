@@ -5,4 +5,4 @@ Java Generics Samples :
 
   1.1. Upper Bounded Wildcards
 
-  1.1. Unbounded Wildcards
+  1.2. Unbounded Wildcards
